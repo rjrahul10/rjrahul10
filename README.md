@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm [Rahul Kumar], a Data Engineer! 👋
+# Hi there, I'm Rahul Kumar, a Data Engineer! 👋
 
 - 🔭 I'm currently working on building data pipelines and ETL processes
 - 🌱 I'm proficient in SQL, Python, and Apache Spark
 - 💼 Currently employed at [Optum (UHG)]
 - 📫 Reach me at [tomailrahulkumar@gmail.com]
 
-<-- ## Projects:
+<!-- ## Projects:
 
 ### Project 1: Real-time Data Processing Pipeline
 - Description: Developed a real-time data processing pipeline using Apache Kafka and Apache Spark Streaming for processing streaming data.
