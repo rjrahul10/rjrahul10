@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 - Database Management
 
 ## Connect with Me:
-- LinkedIn: [Your LinkedIn Profile](link_to_linkedin)
+- LinkedIn: [https://www.linkedin.com/in/rahul-kumar-42630a162/]
